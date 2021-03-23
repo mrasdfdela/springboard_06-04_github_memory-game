@@ -1,0 +1,29 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.purple {
+  background-color: purple;
+}
+.orange {
+  background-color: orange;
+}
+
+.hidden {
+  background-color: gray !important;
+  transition-duration: 1000ms;
+}
